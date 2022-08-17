@@ -1,0 +1,56 @@
+
+body{ 
+  margin: 0;
+  padding: 0;
+  background: url("../images/arsenal\ vs\ spurs\ -\ Copy.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+ul li a{
+  text-decoration: none;
+  text-transform: uppercase;
+  color: white;
+  padding: 10px;
+  border: 2px solid white;
+  background-color: blue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+ font-family: Arial, Helvetica, sans-serif;
+ font-style: italic;
+ color: red;
+text-align: center;
+}
+p{
+ font-family: Arial, Helvetica, sans-serif;
+ background-color: rgb(4, 34, 204);
+ border: 2px solid #fc0707;
+ border-radius: 15px;
+ padding: 15px;
+ text-align: center;
+margin-top: 20px;
+}
+
+img {
+  border: 8px solid rgb(211, 65, 65);
+}
+
+
+
+ul{
+  list-style-type:none;
+  margin:20px;
+  margin-right: 20px;
+  padding:10px;
+  text-align: center;
+}
+li{
+  display:inline;
+  
+}
+
+button a{
+  text-decoration: none;
+  color: #fff;
+  }
